@@ -1,0 +1,2 @@
+judul=siap kuy
+penulis=atta
